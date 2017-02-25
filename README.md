@@ -1,2 +1,2 @@
 # AlligatorCrossing
-Android gaming app-dodge the log obstacles by tapping left or right to move the alligator.
+Android gaming app -tap left or right to have the alligator dodge the log obstacles.
